@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VeriPhone Test</string>
+    <string name="search_hint">Search for products…</string>
+    <string name="no_results_found">No products found for your search</string>
+    <string name="error_no_internet">No internet connection</string>
+    <string name="error_unknown">An unexpected error occurred</string>
+    <string name="empty_search_message">Start typing to search for products</string>
+</resources>
